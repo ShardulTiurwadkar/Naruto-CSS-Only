@@ -2,7 +2,7 @@
     
 }
 
-.mario_block{
+.naruto_block{
     display: inline-block;
     position: relative;
     /* margin: 80px auto; */
@@ -23,7 +23,7 @@
     --col9: rgb(212, 129, 143);
   }
 
-.mario{
+.naruto{
     display: block;
     width: 1em;
     height: 1em;
